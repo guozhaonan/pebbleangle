@@ -1,0 +1,17 @@
+{
+  "uuid": "d07c5e13-eb9f-4113-a454-05f173e609e2",
+  "shortName": "pennapps2014",
+  "longName": "pennapps2014",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
